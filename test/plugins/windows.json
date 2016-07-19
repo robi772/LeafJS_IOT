@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {},
+    "dependent_plugins": {
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "org.apache.cordova.file": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "org.apache.cordova.file-transfer": {
+            "PACKAGE_NAME": "HelloCordova"
+        }
+    }
+}

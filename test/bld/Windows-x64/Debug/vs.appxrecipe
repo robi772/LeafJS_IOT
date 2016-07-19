@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>I5</Machine>
+    <WindowsUser>robi7</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>io.cordova.hellocordova</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>B8E694E742E4F9DBDDBE879C6787FD9A81E8EE159F25C3F43C819211B16D2DD9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.hellocordova_0.0.1.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.hellocordova_h35559jr9hy9m!io.cordova.hellocordova</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.hellocordova</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>0.0.1.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\debug\x64\win8.1\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T09:00:19.004</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T08:59:23.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T08:59:23.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T08:59:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T08:59:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2016-07-16T08:59:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T08:59:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-07-16T08:59:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T08:59:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-16T08:59:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\index.js">
+      <PackagePath>www\index.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\leaflet-tilelayer-cordova.js">
+      <PackagePath>www\leaflet-tilelayer-cordova.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file-transfer\src\windows\FileTransferProxy.js">
+      <PackagePath>www\plugins\org.apache.cordova.file-transfer\src\windows\FileTransferProxy.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file-transfer\www\FileTransfer.js">
+      <PackagePath>www\plugins\org.apache.cordova.file-transfer\www\FileTransfer.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file-transfer\www\FileTransferError.js">
+      <PackagePath>www\plugins\org.apache.cordova.file-transfer\www\FileTransferError.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\src\windows\FileProxy.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\src\windows\FileProxy.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\DirectoryEntry.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\DirectoryEntry.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\DirectoryReader.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\DirectoryReader.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\Entry.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\Entry.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\File.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\File.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\FileEntry.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\FileEntry.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\FileError.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\FileError.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\FileReader.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\FileReader.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\FileSystem.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\FileSystem.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\fileSystems.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\fileSystems.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\FileUploadOptions.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\FileUploadOptions.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\FileUploadResult.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\FileUploadResult.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\FileWriter.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\FileWriter.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\Flags.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\Flags.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\LocalFileSystem.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\LocalFileSystem.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\Metadata.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\Metadata.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\ProgressEvent.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\ProgressEvent.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\requestFileSystem.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\requestFileSystem.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js">
+      <PackagePath>www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js</PackagePath>
+      <Modified>2016-07-16T09:00:17.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-07-16T09:00:16.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-07-16T09:00:16.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-07-16T09:00:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\debug\x64\win8.1\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-16T09:00:18.851</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

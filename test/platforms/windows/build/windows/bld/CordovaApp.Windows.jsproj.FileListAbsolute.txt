@@ -1,0 +1,17 @@
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\debug\x64\win8.1\resources.pri
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\debug\x64\win8.1\AppxManifest.xml
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\debug\x64\win8.1\CordovaApp.Windows.build.appxrecipe
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\priconfig.xml
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\layout.resfiles
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\resources.resfiles
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\pri.resfiles
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\qualifiers.txt
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\package.map.txt
+C:\Users\robi7\Downloads\L.TileLayer.Cordova-master\L.TileLayer.Cordova-master\test\platforms\windows\build\windows\bld\_pkginfo.txt
